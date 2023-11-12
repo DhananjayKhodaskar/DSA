@@ -1,4 +1,5 @@
 # Question Link - https://www.algoexpert.io/questions/height-balanced-binary-tree
+# O(n) time | 0(h) space - where n is the number of nodes in the binary tree
 # This is an input class. Do not edit.
 class BinaryTree:
     def __init__(self, value, left=None, right=None):
