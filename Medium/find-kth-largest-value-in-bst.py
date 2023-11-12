@@ -1,4 +1,6 @@
 # Question Link - https://www.algoexpert.io/questions/find-kth-largest-value-in-bst
+# O(h + k) time | 0(h) space - where h is the height of the tree and k is the input
+
 # This is an input class. Do not edit.
 class BST:
     def __init__(self, value, left=None, right=None):
